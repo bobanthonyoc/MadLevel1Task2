@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MadLevel1Task2</string>
+    <string name="titel">Conjunction (AND)</string>
+    <string name="button_label">Submit</string>
+    <string name="header1">A</string>
+    <string name="header2">B</string>
+    <string name="header3">A ^ B</string>
+    <string name="truthy">T</string>
+    <string name="trueOrFalse">T / F</string>
+    <string name="falsy">F</string>
+    <string name="oneCorrect">You have one answer correct!</string>
+    <string name="twoCorrect">You have two answers correct!</string>
+    <string name="threeCorrect">You have three answers correct!</string>
+    <string name="fourCorrect">Congratulations, you have all answers correct!</string>
 </resources>
