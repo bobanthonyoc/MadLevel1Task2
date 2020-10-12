@@ -8,6 +8,7 @@
     <string name="truthy">T</string>
     <string name="trueOrFalse">T / F</string>
     <string name="falsy">F</string>
+    <string name="nonCorrect">You have no correct answer!</string>
     <string name="oneCorrect">You have one answer correct!</string>
     <string name="twoCorrect">You have two answers correct!</string>
     <string name="threeCorrect">You have three answers correct!</string>
